@@ -59,6 +59,18 @@
   color: #fff;
   box-shadow: #333 0px 1px 5px;
 }
+.cart-count{
+  
+  position: absolute;
+  right: -1px;
+  top: 10px;
+  z-index: 1;
+  background-color: #080808;
+  padding: 6px;
+  width: 18px;
+  height: 19px;
+  color: #fff;
+}
 /*  */
 .App-header {
   background-color: #282c34;
